@@ -37,3 +37,5 @@ Students will explore core concepts such as neural network architectures, transf
 3. *Building LLMs for Production* – Bouchard and Peters ([Book Link](https://www.amazon.in/Building-LLMs-Production-Reliability-Fine-Tuning/dp/9355427832))
 4. *AI Engineering* – Chip Huyen ([Book Link](https://www.amazon.in/AI-Engineering-Building-Applications-Foundation/dp/1098166302))
 5. *Generative AI System Design Interview* – Aminian & Sheng ([Book Link](https://www.amazon.in/Generative-System-Design-Interview-Colour/dp/9355424965))
+
+## Testing if the forked directory is cloned, or the original one
